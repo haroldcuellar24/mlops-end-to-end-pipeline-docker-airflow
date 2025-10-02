@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gold Spot Price Prediction</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Gold Spot Price Prediction</h1>
+  <h2>Random Forest Model</h2>
+  <p>This model predicts the price of gold spot based of prices last days.</p>
+  <div class="container_1">
+      <div class="son_container_1">
+        <img src="/img/recient.jpg" alt="Image recient" class="imagen_desp">
+      </div>
+      <div class="son_container_1">
+        <img src="/img/history.jpg" alt="Image history" class="imagen_desp">
+      </div>
+  </div class="container_1">
+  <p></p>
+  <div>
+    <form id="predict-form">
+      <label>Day -3: <input type="number" step="any" id="f1"></label><br>
+      <label>Day -2: <input type="number" step="any" id="f2"></label><br>
+      <label>Day -1: <input type="number" step="any" id="f3"></label><br>
+      <button type="submit">Predict</button>
+    </form>
+  </div>
+  
+  <div id="result"></div>
+
+  <script src="../static/script.js"></script>
+</body>
+</html>
