@@ -1,4 +1,4 @@
-# Project ML - Random Forest API with Docker and Flask
+# End-to-end MLOps project with Docker Compose and Airflow
 This repository contains a pipeline project that goes from data extraction to exposing the model on a web page.
 
 ## 1. Description
