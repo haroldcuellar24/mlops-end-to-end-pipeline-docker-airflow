@@ -63,7 +63,8 @@ In the Apache Airflow web interface, you can view and manage everything related 
 
 Preview
 ![Logo](images/airflow_web_page_snapshot_1.PNG)
----
+
+Preview Graph
 ![Logo](images/airflow_web_page_snapshot_2.PNG)
 
 ## 6. Frontend
