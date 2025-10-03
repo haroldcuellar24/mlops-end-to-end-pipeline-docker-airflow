@@ -6,7 +6,8 @@ This project implements an **end-to-end MLOps** pipeline, from data extraction t
 
 Orchestration is handled by **Apache Airflow** and containerization with **Docker Compose**, ensuring portability and reproducible deployment. 
 
-The focus is on demonstrating **best practices in MLOps** (orchestration, containerization, and deployment) to build a complete and automated end-to-end workflow
+The focus is on demonstrating **best practices in MLOps** (orchestration, containerization, and deployment) to build a complete and automated end-to-end workflow.
+
 ---
 
 ## 2. Project Flow
@@ -62,7 +63,7 @@ In the Apache Airflow web interface, you can view and manage everything related 
 
 Preview
 ![Logo](images/airflow_web_page_snapshot_1.PNG)
-
+---
 ![Logo](images/airflow_web_page_snapshot_2.PNG)
 
 ## 6. Frontend
