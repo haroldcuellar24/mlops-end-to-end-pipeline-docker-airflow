@@ -67,6 +67,10 @@ Preview
 Preview Graph
 ![Logo](images/apache_airflow_web_page_snapshot_2.PNG)
 
+Demo
+
+![Logo](images/demo_apache_airflow.gif)
+
 ## 6. Frontend
 
 The web page connects to the '/predict' endpoint of the API in Flask and displays the model’s predictions in an interactive form for the user. You can also try it with Postman.
